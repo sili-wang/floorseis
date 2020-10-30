@@ -8,7 +8,7 @@ import sys
 import operator
 from datetime import datetime 
 from datetime import timezone
-#Remote data base information
+#Remote data base information from sili
 
 IP = '3.136.84.223'
 PORT = 8086
